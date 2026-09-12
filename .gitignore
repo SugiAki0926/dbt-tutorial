@@ -1,0 +1,24 @@
+# dbt generated files and local credentials
+**/profiles.yml
+**/.user.yml
+**/target/
+**/dbt_packages/
+**/logs/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
