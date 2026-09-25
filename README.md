@@ -1,3 +1,5 @@
+## [The Complete dbt Bootcamp: Zero to Hero + Certification Prep](https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt)
+
 This is a Student Repository for the Udemy's Complete dbt Bootcamp. You can:
 
 1) Either start a codespace and start using dbt right away
